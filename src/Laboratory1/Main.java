@@ -28,12 +28,12 @@ public class Main {
 //}
 
 
-//    public static void main(String[] args) {
-//        int number = 10500;
-//        int result = (number / 10) / 10;
-//        System.out.println(result);
-//    }
-//}
+    public static void main(String[] args) {
+        double number = 10500;
+        double result = (number / 10)/ 10;
+        System.out.println(result);
+    }
+}
 
 //    public static void main(String[] args) {
 //        double a = 3.6;
@@ -60,21 +60,21 @@ public class Main {
 //    }
 //}
 
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        System.out.println("Введите число: ");
-        int b = in.nextInt();
-        if ( b % 2 != 0 && b < 100 ) {
-            System.out.println("Нечетное");
-        } else if ( b % 2 == 0 && b < 100 ) {
-            System.out.println("Четное");
-        } else if ( b % 2 == 0 && b > 100 ) {
-            System.out.println("Выход за пределы диапазона");
-        }
+//    public static void main(String[] args) {
+//        Scanner in = new Scanner(System.in);
+//        System.out.println("Введите число: ");
+//        int b = in.nextInt();
+//        if ( b % 2 != 0 && b < 100 ) {
+//            System.out.println("Нечетное");
+//        } else if ( b % 2 == 0 && b < 100 ) {
+//            System.out.println("Четное");
+//        } else if ( b % 2 == 0 && b > 100 ) {
+//            System.out.println("Выход за пределы диапазона");
+//        }
+//
+//
+//
+//    }
 
-
-
-    }
-
-}
+//}
 
