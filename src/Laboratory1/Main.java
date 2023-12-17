@@ -12,28 +12,28 @@ public class Main {
 //}
 
 
-//    public static void main(String[] args) {
-//        int a = 46;
-//        int b = 10;
-//        float c = 3;
-//        int d = 29;
-//        int e = 4;
-//        int f = -15;
-//
-//        float answer = (a + b) * (b / c);
-//        int answer1 = d * e * f;
-//        System.out.println(answer);
-//        System.out.println(answer1);
-//    }
-//}
-
-
     public static void main(String[] args) {
-        double number = 10500;
-        double result = (number / 10)/ 10;
-        System.out.println(result);
+        int a = 46;
+        int b = 10;
+        double c = 3;
+        int d = 29;
+        int e = 4;
+        int f = -15;
+
+        double answer = (a + b) * (b / c);
+        int answer1 = d * e * f;
+        System.out.println(answer);
+        System.out.println(answer1);
     }
 }
+
+
+//    public static void main(String[] args) {
+//        double number = 10500;
+//        double result = (number / 10)/ 10;
+//        System.out.println(result);
+//    }
+//}
 
 //    public static void main(String[] args) {
 //        double a = 3.6;
