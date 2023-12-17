@@ -1,0 +1,13 @@
+package laboratory3;
+
+
+public class Main {
+    public static void main(String[] args) {
+       Study cource = new Study();
+       System.out.print(cource);
+
+            }
+
+}
+
+
